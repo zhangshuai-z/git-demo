@@ -2,3 +2,6 @@ hello zhangs! hello git! 222222
 hello zhangs! hello git!333333
 hello zhangs
 hello zhangs master test
+hello git! hello zhangs!
+hello 2222222222
+hot-fix text
